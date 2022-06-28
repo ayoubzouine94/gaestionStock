@@ -24,6 +24,7 @@ public class Article {
 		
 	}
 	
+	//Contructor
 	public Article( String marqueArticle, String nomArticle, String descArticle, String prix) {
 		super();
 		
